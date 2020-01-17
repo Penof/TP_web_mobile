@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Exo1_tp1</string>
+    <string name="hello">Hello Word !</string>
+    <string name="nom_input">Nom :</string>
 </resources>
